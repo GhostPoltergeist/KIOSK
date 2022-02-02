@@ -1,7 +1,7 @@
 # KIOSK
 
 <p align="center">
-  <img src="https://github.com/GhostPoltergeist/GhostPoltergeist/blob/main/EasJ.gif" width="400"/>
+  <img src="https://github.com/GhostPoltergeist/KIOSK/blob/main/giphy.gif" width="400"/>
 </a></p>
 
 A kiosk is a tiny, temporary, stand-alone booth used for 
