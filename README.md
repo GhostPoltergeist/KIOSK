@@ -1,5 +1,3 @@
-# KIOSK
-
 <p align="center">
   <img src="https://github.com/GhostPoltergeist/KIOSK/blob/main/giphy.gif" width="400"/>
 </a></p>
